@@ -13,6 +13,9 @@ import meta from "./company/meta.webp";
 import shopify from "./company/shopify.webp";
 import starbucks from "./company/starbucks.webp";
 import tesla from "./company/tesla.webp";
+import vmock from "./company/vmock.jpeg";
+import artifact from "./company/artifact.jpg";
+import wavity from "./company/wavity.png";
 
 import dalle from "./T-shirt.jpg";
 import generator from "./dall-e.jpg";
@@ -35,4 +38,7 @@ export {
   tesla,
   dalle,
   codex,
+  vmock,
+  artifact,
+  wavity,
 };

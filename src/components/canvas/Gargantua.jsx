@@ -26,7 +26,7 @@ const Gargantua = ({ isMobile }) => {
       <pointLight intensity={1} />
       <primitive
         object={computer.scene}
-        scale={isMobile ? 0.9 : 1.5}
+        scale={isMobile ? 0.9 : 1.8}
         position={isMobile ? [0, -1, -2.2] : [0, -1, -0.5]}
         rotation={[-0.01, -0.2, -0.1]}
       />
