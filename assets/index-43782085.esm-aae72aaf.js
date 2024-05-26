@@ -1,4 +1,4 @@
-import{r as Ne,b as t0}from"./index-f0c688d3.js";/**
+import{r as Ne,b as t0}from"./index-4c074771.js";/**
  * @license
  * Copyright 2010-2023 Three.js Authors
  * SPDX-License-Identifier: MIT
