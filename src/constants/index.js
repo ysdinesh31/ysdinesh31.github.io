@@ -69,7 +69,7 @@ const experiences = [
     company_name: "Artifact",
     icon: artifact,
     iconBg: "#383E56",
-    date: "June 2023 - October 2023",
+    date: "July 2023 - October 2023",
     points: [
       "Developed a responsive web app using React and Go, driving the entire development lifecycle till launch.",
       "Implemented Twitter and Discord OAuth2 authorization flow to capture user data and personalize their experience.",
@@ -83,7 +83,7 @@ const experiences = [
     company_name: "VMock",
     icon: vmock,
     iconBg: "#E6DEDD",
-    date: "June 2019 - June 2021",
+    date: "July 2018 - July 2021",
     points: [
       "Developed Network Feedback product using React, Laravel stack which is being used by over 80000 users.",
       "Refactored landing page and 4 more products with WCAG-AA standards for ADA compliance Level-2 to make the website more accessible for people with disabilities.",
