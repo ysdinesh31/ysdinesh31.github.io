@@ -20,6 +20,14 @@ import wavity from "./company/wavity.png";
 import dalle from "./T-shirt.jpg";
 import generator from "./dall-e.jpg";
 import codex from "./codex.png";
+import angular from "./angular.svg";
+import python from "./python.svg";
+import typescript from "./typescript.svg";
+import kubernets from "./kubernets.svg";
+import java from "./java.svg";
+import golang from "./golang.svg";
+import docker from "./docker.svg";
+import react from "./react.svg";
 
 export {
   logo,
@@ -41,4 +49,12 @@ export {
   vmock,
   artifact,
   wavity,
+  angular,
+  python,
+  typescript,
+  kubernets,
+  java,
+  golang,
+  docker,
+  react,
 };

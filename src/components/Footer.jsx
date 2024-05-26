@@ -1,12 +1,12 @@
-import React from 'react';
+import React from "react";
 
 const Footer = () => {
   return (
     <footer className="bg-gray-900 text-white py-4">
       <div className="mx-auto flex items-center justify-center">
-        <p className="mr-2">© 2023 Name?</p>
-		<a
-          href="https://github.com/ElonMusk2002/my-portfolio"
+        <p className="mr-2">© 2023 Dinesh</p>
+        <a
+          href="https://github.com/ysdinesh31/ysdinesh31.github.io"
           target="_blank"
           rel="noopener noreferrer"
         >
