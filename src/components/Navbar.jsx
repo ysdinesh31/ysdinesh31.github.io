@@ -70,7 +70,7 @@ const Navbar = () => {
             } hover:text-white text-[18px] font-medium cursor-pointer`}
             onClick={() => setActive("Resume")}
           >
-            <a target="_blank" href="/src/assets/SankaraDineshSE.pdf">
+            <a target="_blank" href="https://drive.google.com/file/d/1lKK9GRKvxNIfu5bX-HX2oIDMTA_MURwH/view?usp=sharing">
               Resume
             </a>
           </li>
@@ -113,7 +113,7 @@ const Navbar = () => {
                   setActive("Resume");
                 }}
               >
-                <a target="_blank" href="/src/assets/SankaraDineshSE.pdf">
+                <a target="_blank" href="https://drive.google.com/file/d/1lKK9GRKvxNIfu5bX-HX2oIDMTA_MURwH/view?usp=sharing">
                   Resume
                 </a>
               </li>
